@@ -1,2 +1,2 @@
-# LA_DolS_Map
-Local Authorities Map with DolS Backlog
+# la-dols-map
+Local Authorities Map with DolS Backlog created with Panel
